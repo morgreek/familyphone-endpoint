@@ -1,0 +1,8 @@
+{
+    "vpsHost":         "157.22.203.52:5000",
+    "wsHost":          "157.22.203.52:5000",
+    "scheme":          "http",
+    "apiVersion":      "v1",
+    "minClientVersion": 26,
+    "publishedAt":     "2026-05-10T18:00:00Z"
+}
